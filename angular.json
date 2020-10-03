@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-events-demo"
+    }
+  },
+  "defaultProject": "ng-events-demo",
+  "cli": {
+    "analytics": false
+  }
 }
